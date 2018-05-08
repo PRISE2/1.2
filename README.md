@@ -1,2 +1,2 @@
 # 1.2
-These are the MAC, Ubnuntu, and Windows 1.2 versions of the PRISE2 software. The QT file should reside within
+These are the MAC, Ubnuntu, and Windows 1.2 versions of the PRISE2 software. The QT file should reside within the MAC version like so: prise2_mac_v1.2>
